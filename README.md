@@ -5,8 +5,9 @@ A collection of automated pdf tools
 
 Python3 is needed for this script to run.
 Python commands vary based on OS, this is Windows:
+    
+    #Install Python
 
-    py install
     py -m pip install pypdf openpyxl pymupdf
 
     git clone https://github.com/ipvlgit/PDF-Automation-Toolkit.git

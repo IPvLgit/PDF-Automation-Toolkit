@@ -9,7 +9,7 @@ Python commands vary based on OS, this is Windows:
     py install
     py -m pip install pypdf openpyxl pymupdf
 
-    git clone https://github.com/IPvLgit/PDF-Automation-Toolkit.git
+    git clone https://github.com/ipvlgit/PDF-Automation-Toolkit.git
 
 ---
 

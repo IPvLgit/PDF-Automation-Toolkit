@@ -1,0 +1,6 @@
+
+Required PIP Modules:
+
+openpyxl
+pypdf
+pymupdf

@@ -12,7 +12,7 @@ Python commands vary based on OS, this is Windows:
 
     git clone https://github.com/ipvlgit/PDF-Automation-Toolkit.git
 
-*NOTE MAKE SURE YOU CLONE THE REPO INTO THE SAME DIRECTORY AS THE FILES YOU WANT TO USE THE TOOLS ON
+*TARGET FILES NEED TO BE MOVED TO THE SRC DIRECTORY
 
 ---
 

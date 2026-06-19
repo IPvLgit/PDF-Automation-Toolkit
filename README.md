@@ -67,7 +67,7 @@ Features:
 
 Usage:
 
-python PDF_Field_Reader.py example.pdf
+python PDF_Field_Checker.py example.pdf
 
 ---
 
